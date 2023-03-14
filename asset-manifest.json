@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.6947eaa4.js",
+    "main.css": "/static/css/main.ef0bfd28.css",
+    "main.js": "/static/js/main.c79a7d61.js",
     "static/js/787.21d17fcb.chunk.js": "/static/js/787.21d17fcb.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/font-icons.woff2": "/static/media/font-icons.bb0aa21537f57f3b891b.woff2",
+    "static/media/parallax-bg.jpg": "/static/media/parallax-bg.1278c97b76e8f0871de5.jpg",
+    "static/media/pattern.png": "/static/media/pattern.0322e52ee5e437901cd7.png",
+    "static/media/lined-icons.woff2": "/static/media/lined-icons.3ec85ec15fb89b36eee4.woff2",
+    "static/media/Simple-Line-Icons.woff2": "/static/media/Simple-Line-Icons.61e75e6acb240d7fb9f0.woff2",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.6947eaa4.js.map": "/static/js/main.6947eaa4.js.map",
+    "static/media/iconalt.svg": "/static/media/iconalt.c01648798f8b1fa9a04e.svg",
+    "main.ef0bfd28.css.map": "/static/css/main.ef0bfd28.css.map",
+    "main.c79a7d61.js.map": "/static/js/main.c79a7d61.js.map",
     "787.21d17fcb.chunk.js.map": "/static/js/787.21d17fcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6947eaa4.js"
+    "static/css/main.ef0bfd28.css",
+    "static/js/main.c79a7d61.js"
   ]
 }
