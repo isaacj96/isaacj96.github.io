@@ -1,0 +1,14 @@
+{
+	"pid": 46572,
+	"port": 4321,
+	"url": "http://localhost:4321",
+	"urls": {
+		"local": [
+			"http://localhost:4321/galaxy_gaxy_theme"
+		],
+		"network": [],
+		"networkInterfaceNames": []
+	},
+	"background": false,
+	"startedAt": "2026-11-24T08:46:08.571Z"
+}
